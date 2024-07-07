@@ -9,7 +9,7 @@ const Hero = () => {
                 
             </h1>
             <p className='font-semibold md:text-sm lg:text-xl text-slate-100'>Driven by Passion, Powered by Students</p>
-            <button type='button' className = "text-slate-100 bg-black font-medium px-6 py-3 rounded-2xl mt-8 hover:text-black hover:bg-white">Expore !</button>
+            <button type='button' className = "text-slate-100 bg-black font-medium px-6 py-3 rounded-2xl mt-8 hover:text-black hover:bg-white">Explore !</button>
       </div>
     </div>
   )
